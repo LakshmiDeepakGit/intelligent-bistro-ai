@@ -1,14 +1,14 @@
 # Intelligent Bistro AI
 
-A premium AI-powered conversational food ordering mobile application built using React Native (Expo) and Node.js.
+A premium AI-powered conversational food ordering mobile application built using React Native, Expo, Node.js, Express, and TypeScript.
 
 The application allows users to browse restaurant categories, interact with an AI assistant using natural language, and manage a dynamic shopping cart through conversational ordering.
 
 ---
 
-# Features
+## Features
 
-## AI Conversational Ordering
+### AI Conversational Ordering
 
 Users can place food orders naturally using prompts like:
 
@@ -23,27 +23,29 @@ The AI assistant intelligently converts conversational prompts into structured c
 
 ---
 
-# Smart Cart Management
+## Smart Cart Management
 
 - Add items dynamically
 - Remove items
-- Increase/decrease quantity
+- Increase and decrease quantity
 - Conversational cart updates
-- Persistent state management
+- Persistent cart state management
+- Checkout success flow
 
 ---
 
-# Premium Mobile UI
+## Premium Mobile UI
 
 - Modern mobile-first design
 - Dynamic category tabs
 - Smooth user experience
-- Professional dark theme UI
+- Professional dark theme interface
+- Floating cart button
 - Responsive layout
 
 ---
 
-# AI Parsing Capabilities
+## AI Parsing Capabilities
 
 The backend supports:
 
@@ -54,19 +56,20 @@ The backend supports:
 - Spicy food suggestions
 - Exact menu matching
 - Smart phrase parsing
+- Structured JSON action generation
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-## Frontend
+### Frontend
 
 - React Native
 - Expo
 - TypeScript
 - Zustand
 
-## Backend
+### Backend
 
 - Node.js
 - Express
@@ -74,27 +77,18 @@ The backend supports:
 
 ---
 
-# Project Structure
+## Project Structure
 
-/intelligent-bistro
-  /frontend
-  /backend
+```text
+intelligent-bistro/
+├── frontend/
+├── backend/
+├── README.md
+└── .gitignore
+```
 
 ---
 
-# Setup Instructions
+## Author
 
-## Frontend
-
-```bash
-cd frontend
-npm install
-npx expo start
-```
-
-### Backend
-
-```bash
-cd backend
-npm install
-npm run dev
+Lakshmi Deepak Chidagam
