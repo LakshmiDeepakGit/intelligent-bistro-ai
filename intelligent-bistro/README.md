@@ -90,3 +90,11 @@ The backend supports:
 cd frontend
 npm install
 npx expo start
+```
+
+### Backend
+
+```bash
+cd backend
+npm install
+npm run dev
