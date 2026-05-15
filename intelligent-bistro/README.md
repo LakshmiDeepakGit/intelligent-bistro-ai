@@ -340,6 +340,12 @@ These actions dynamically update the frontend cart state using Zustand state man
 
 ---
 
+## Loom Walkthrough
+
+Watch the complete application demo here:
+
+[Watch Loom Demo] - https://www.loom.com/share/065604d7b24e4fbc9e211e4b90de7b4b
+
 # Author
 
 Lakshmi Deepak Chidagam
