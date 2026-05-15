@@ -142,7 +142,7 @@ Replace `YOUR_LOCAL_IP` with your computer’s local IPv4 address.
 Example:
 
 ```ts
-const API_URL = "http://192.168.1.49:5000";
+const API_URL = "http://192.153.23.1:5000";
 ```
 
 This is required because the mobile application communicates with the backend server running on your computer.
@@ -202,7 +202,7 @@ After running the command:
 Example:
 
 ```text
-exp://192.168.1.49:8081
+exp://192.157.1.62:8081
 ```
 
 Keep this terminal running while using the application.
@@ -260,7 +260,7 @@ If QR scanning does not work:
 Example:
 
 ```text
-exp://192.168.1.49:8081
+exp://192.167.1.52:8081
 ```
 
 2. Open the **Expo Go** application manually.
